@@ -1,1 +1,1 @@
-This is my repo for 'Odin Project'
+This is repo for practising from the external sources linked from "The Odin Project".
